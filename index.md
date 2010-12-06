@@ -5,10 +5,10 @@ layout: default
 
 About
 -----
-Causal is a project to bring together all your social services together in one place.
+Causal is a project to bring together all your online social connections together in one place.
 
 Causal gives you two ways to view your social history. The first is a web interface displaying 
-your past 7 days of the enabled services. The second is a json feed of the same data of all your
+your past 7 days of the enabled services. The second is a JSON feed of the same data of all your
 updates in a standardised format. 
 
 We have made the decision to open the project to drive the project in a direction users want

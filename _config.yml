@@ -1,2 +1,4 @@
-zip_download: http://github.com/causality/causal/zipball/master
-tar_download: http://github.com/causality/causal/tarball/master
+zip_download: https://github.com/causality/causal/zipball/
+tar_download: https://github.com/causality/causal/tarball/
+current_stable_version: 0.9
+readme_link: https://github.com/causality/causal/wiki/Read-Me
